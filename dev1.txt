@@ -1,0 +1,1 @@
+hello this is dev1 logs file
